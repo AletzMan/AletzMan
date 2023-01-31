@@ -2,7 +2,7 @@
 - :electron: Me interesa la tecnología, todo lo que tenga que ver con la electrónica y la programación, son dos cosas que me apasionan
 - 📖 Soy una persona autodidacta, y siempre aprendiendo algo nuevo.
 - 🌱 Actualmente estoy aprendiendo React.js, y mejorando continuamente mi inglés
-- 💞️ Busco colaborar en áreas de programación como Front-End, tengo 12 meses que me introduje en este maravilloso mundo
+- 🤝 Busco colaborar en áreas de programación como Front-End, tengo 12 meses que me introduje en este maravilloso mundo
 - 
 - 📫 Puedes ponerte en contacto conmigo y/o consultar mi trabajo en los siguientes enlaces
 <a title="Go To Linkedin" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/alejandro-garcia-alonso-596788b8/">Linkedin</a>
