@@ -14,5 +14,5 @@
 
 
 ### Lenguajes
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://www.javascript.com/) 
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E)](https://www.javascript.com/) 
 
