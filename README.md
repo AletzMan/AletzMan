@@ -14,4 +14,4 @@
 
 
 ### Lenguajes
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) ?style=for-the-badge&logo=appveyor
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
