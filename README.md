@@ -14,4 +14,4 @@
 
 
 ### Lenguajes
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) [![Generic badge](https://img.shields.io/badge//static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)](https://shields.io/)
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) [![Generic badge]!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
