@@ -17,5 +17,5 @@
 
 
   
-[![html](https://img.shields.io/badge/-html-%23F7DF1E?style=for-the-badge&logo=html)](https://www.javascript.com/) 
+[![html](https://img.shields.io/badge/-html-%23F7DF1E?style=for-the-badge&logo=https://simpleicons.org/icons/css3.svg)](https://www.javascript.com/) 
 
