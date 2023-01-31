@@ -1,9 +1,9 @@
-# 👋 Hi, I’m Alejandro Garcia
-- 👀 I’m interested in the technology, in everything that has to do with electronics and programming, they are two things that I am passionate about,
-- 🌱 I am currently learning React.js, and continuously improving my English.
-- 💞️  I am looking to collaborate in areas of programming as Front-End, I have fifteen months that I enter in this world.
+# 👋 Hola, Soy Alejandro Garcia
+- 👀 Me interesa la tecnología, todo lo que tenga que ver con la electrónica y la programación, son dos cosas que me apasionan
+- 🌱 Actualmente estoy aprendiendo React.js, y mejorando continuamente mi inglés
+- 💞️ Busco colaborar en áreas de programación como Front-End, tengo 12 meses que me metí en este mundo
 - 
-- 📫 You can contact me, and check my work in the following links.
+- 📫 Puedes ponerte en contacto conmigo y/o consultar mi trabajo en los siguientes enlaces
 <a title="Go To Linkedin" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/alejandro-garcia-alonso-596788b8/">Linkedin</a>
 <button>OK</button>
 
