@@ -1,4 +1,5 @@
 # 👋 Hola, Soy un Desarrollador de Software
+<img src="https://raw.githubusercontent.com/AletzMan/aletzman.github.io/d3192d6f0bfbe808e6bbf3804e1579382e8b9d61/images/background_github.svg"/>
 - :electron: Me interesa la tecnología, todo lo que tenga que ver con la electrónica y la programación, son dos cosas que me apasionan
 - 📖 Soy una persona autodidacta, y siempre aprendiendo algo nuevo.
 - 🌱 Actualmente estoy aprendiendo React.js, y mejorando continuamente mi inglés
