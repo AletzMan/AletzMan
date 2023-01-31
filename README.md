@@ -23,4 +23,4 @@
 
 ### Pruebas, Instrumentación y Control
 
-<img src="https://img.shields.io/badge/labview-FFE600?style=for-the-badge&logo=labview&logoColor=black"/> <img src="https://img.shields.io/badge/cvi-00979c?style=for-the-badge&logo=cvi&logoColor=white"/> <img src="https://img.shields.io/badge/teststand-00979c?style=for-the-badge&logo=teststand&logoColor=white"/> <img src="https://img.shields.io/badge/tia_portal-3B4254?style=for-the-badge&logo=siemens&logoColor=white"/> <img src=""/> <img src=""/>
+<img src="https://img.shields.io/badge/labview-FFE600?style=for-the-badge&logo=labview&logoColor=black"/> <img src="https://img.shields.io/badge/cvi-00979c?style=for-the-badge&logo=cvi&logoColor=white"/> <img src="https://img.shields.io/badge/teststand-00979c?style=for-the-badge&logo=teststand&logoColor=white"/> <img src="https://img.shields.io/badge/tia_portal-3B4254?style=for-the-badge&logo=siemens&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
