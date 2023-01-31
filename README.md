@@ -15,5 +15,5 @@
 
 ### Lenguajes
 
-[![HTML](https://img.shields.io/badge/-HTML-%F06925?style=for-the-badge&logo=html&logoColor=000)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/-HTML-%F06925FF?style=for-the-badge&logo=html&logoColor=000)](https://www.javascript.com/)
 
