@@ -5,8 +5,6 @@
 
 - 📖 Soy una persona autodidacta, y siempre aprendiendo algo nuevo.
 
-- 🌱 Actualmente estoy aprendiendo React.js, y mejorando continuamente mi inglés
-
 - 🤝 Busco colaborar en áreas de programación como Front-End, tengo 12 meses que me introduje en este maravilloso mundo
 
 - 📫 Puedes ponerte en contacto conmigo y/o consultar mi trabajo en los siguientes enlaces
