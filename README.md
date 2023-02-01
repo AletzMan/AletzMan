@@ -8,7 +8,7 @@
 - 🤝 Busco colaborar en áreas de programación como Front-End, tengo 12 meses que me introduje en este maravilloso mundo
 
 - 📫 Puedes ponerte en contacto conmigo y/o consultar mi trabajo en los siguientes enlaces
-(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[https://www.linkedin.com/in/alejandro-garcia-alonso-596788b8/]
+- [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-garcia-alonso-596788b8/)
 
 
 ## Tecnologías Front-End
