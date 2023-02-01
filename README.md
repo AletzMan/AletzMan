@@ -9,7 +9,7 @@
 
 - 📫 Puedes ponerte en contacto conmigo y/o consultar mi trabajo en los siguientes enlaces
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-garcia-dev/)
-[![Foo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AletzMan)
+[![Foo](https://img.shields.io/badge/portfolio-3B4254?style=for-the-badge&logo=portfolio&logoColor=white)](https://aletzman.github.io/)
 
 ## Tecnologías Front-End
 
