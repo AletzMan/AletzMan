@@ -1,11 +1,11 @@
-# 👋 Hola, Soy un Desarrollador de Software
+# 👋 Hola, Soy Desarrollador de Software
 <img src="https://raw.githubusercontent.com/AletzMan/aletzman.github.io/4c59eea1d9f7a5b4a6a69df5437e4e657077b707/assets/images/background_github.svg"/>
 
-- :electron: Me interesa la tecnología, todo lo que tenga que ver con la electrónica y la programación, son dos cosas que me apasionan
+- :electron: Me interesa la tecnología, y todo lo que tenga que ver con la electrónica y la programación.
 
 - 📖 Soy una persona autodidacta, y siempre aprendiendo algo nuevo.
 
-- 🤝 Busco colaborar en áreas de programación como Front-End, tengo 12 meses que me introduje en este maravilloso mundo
+- 🤝 Busco colaborar en áreas de programación como Front-End.
 
 - 📫 Puedes ponerte en contacto conmigo y/o consultar mi trabajo en los siguientes enlaces
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-garcia-dev/)
