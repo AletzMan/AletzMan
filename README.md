@@ -1,4 +1,4 @@
-# 👋 Hola, Soy Desarrollador de Software
+# 👋 Hola, soy Desarrollador de Software
 <img src="https://raw.githubusercontent.com/AletzMan/aletzman.github.io/4c59eea1d9f7a5b4a6a69df5437e4e657077b707/assets/images/background_github.svg"/>
 
 - :electron: Me interesa la tecnología, y todo lo que tenga que ver con la electrónica y la programación.
