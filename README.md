@@ -57,6 +57,7 @@ Con más de 8 años de experiencia en pruebas funcionales y automatización, me 
 ### 📚 Actualmente estoy aprendiendo
 
 ![Angular](https://img.shields.io/badge/-Angular-%23DD1B16?style=for-the-badge&logo=angular&logoColor=FFF)
+![Python](https://img.shields.io/badge/-Python-%23DD1B16?style=for-the-badge&logo=python&logoColor=FFF)
 ---
 
 ### 🚀 Me gustaría aprender
