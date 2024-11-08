@@ -36,7 +36,8 @@ Soy Desarrollador de Software con un enfoque en crear soluciones eficientes y bi
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)
 
-Tengo experiencia en tecnologías y herramientas avanzadas para pruebas e instrumentación, como LabVIEW, TIA Portal, y lenguajes de programación específicos para control y automatización.
+Con más de 8 años de experiencia en pruebas funcionales y automatización, me especializo en diseñar sistemas de control y prueba para entornos electrónicos complejos. Mi enfoque ha sido asegurar la precisión, confiabilidad y eficiencia en procesos de producción mediante soluciones innovadoras y un alto nivel de detalle en cada proyecto.
+
 ---
 
 ### 📚 Actualmente estoy aprendiendo
