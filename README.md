@@ -6,8 +6,13 @@ Soy Desarrollador de Software con un enfoque en crear soluciones eficientes y bi
 
 ### 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-garcia-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B4254?style=for-the-badge&logo=portfolio&logoColor=white)](https://alejandro-garcia.dev/)
+<a href="https://alejandro-garcia.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-3B4254?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/alejandro-garcia-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 
 ---
 
