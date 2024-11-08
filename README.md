@@ -27,9 +27,16 @@ Soy Desarrollador de Software con un enfoque en crear soluciones eficientes y bi
 ---
 
 ### 🤖 Ingeniería en pruebas e instrumentación
+ 
+![LabVIEW](https://img.shields.io/badge/labview-FFE600?style=for-the-badge&logo=labview&logoColor=black)
+![CVI](https://img.shields.io/badge/cvi-00979c?style=for-the-badge&logo=cvi&logoColor=white)
+![TestStand](https://img.shields.io/badge/teststand-00979c?style=for-the-badge&logo=teststand&logoColor=white)
+![TIA Portal](https://img.shields.io/badge/tia_portal-3B4254?style=for-the-badge&logo=siemens&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)
 
 Tengo experiencia en tecnologías y herramientas avanzadas para pruebas e instrumentación, como LabVIEW, TIA Portal, y lenguajes de programación específicos para control y automatización.
-
 ---
 
 ### 📚 Actualmente estoy aprendiendo
