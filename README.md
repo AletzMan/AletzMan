@@ -4,6 +4,11 @@
 
 Soy Desarrollador de Software con un enfoque en crear soluciones eficientes y bien estructuradas. Con un trasfondo sólido en electrónica y más de 8 años de experiencia en automatización y pruebas funcionales, me he especializado en el desarrollo de aplicaciones web y herramientas innovadoras.
 
+### 🌐 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-garcia-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B4254?style=for-the-badge&logo=portfolio&logoColor=white)](https://alejandro-garcia.dev/)
+
 ---
 
 ### 🛠 Tecnologías en las que trabajo
