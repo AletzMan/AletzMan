@@ -62,7 +62,7 @@ Con más de 8 años de experiencia en pruebas funcionales y automatización, me 
 
 ### 🚀 Me gustaría aprender
 
-![Vue.js](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue&logoColor=CCC)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue&logoColor=CCC)
 ![Kotilin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=CCC)
 
 ### 🌐 Conéctate conmigo
