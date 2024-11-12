@@ -47,7 +47,7 @@ Soy Desarrollador de Software con un enfoque en crear soluciones eficientes y bi
 ![TestStand](https://img.shields.io/badge/teststand-00979c?style=for-the-badge&logo=teststand&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/tia_portal-3B4254?style=for-the-badge&logo=siemens&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)
 
 Con más de 8 años de experiencia en pruebas funcionales y automatización, me especializo en diseñar sistemas de control y prueba para entornos electrónicos complejos. Mi enfoque ha sido asegurar la precisión, confiabilidad y eficiencia en procesos de producción mediante soluciones innovadoras y un alto nivel de detalle en cada proyecto.
